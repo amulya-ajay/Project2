@@ -1,7 +1,10 @@
 # New Project
 
 This project was created from local system.
-created by Amulya Ajay.
+Created by Amulya Ajay.
 
 # Creater
 Amulya Ajay
+
+# New Line
+This ia readme file. 
